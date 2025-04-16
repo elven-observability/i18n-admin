@@ -1,0 +1,29 @@
+{
+  "button": "Teste Grátis por 14 Dias",
+
+  "observability": {
+    "title": "Observabilidade",
+    "subtitle": "Logs | Métricas | Rastreamento distribuído",
+    "description": "Utilizando soluções opensource, entregamos uma experiência completa para capturar qualquer evento, alerta ou incidente em seus ambientes produtivos."
+  },
+
+  "incidents": {
+    "title": "Gestão de Incidentes",
+    "description": "Faça a gestão de todos os seus alertas e incidentes em uma única plataforma e estruture sua escala em um fluxo até o resolved!"
+  },
+
+  "statusPage": {
+    "title": "Status Page",
+    "description": "Compartilhe abertamente o status e a disponibilidade dos seus serviços, criando confiança com os clientes."
+  },
+
+  "monitoring": {
+    "title": "Monitoramento",
+    "description": "Várias opções para monitorar sua aplicação, seja síncrona, assíncrona, pública, privada ou com monitoramento sintético para fluxos complexos."
+  },
+
+  "synthetic": {
+    "title": "Monitoramento Sintético",
+    "description": "Com monitoramento sintético, testamos seus fluxos de negócios, alertando rapidamente em caso de falhas para garantir a confiabilidade do seu negócio."
+  }
+}

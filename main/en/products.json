@@ -1,0 +1,29 @@
+{
+  "button": "Try Free for 14 Days",
+
+  "observability": {
+    "title": "Observability",
+    "subtitle": "Logs | Metrics | Distributed Tracing",
+    "description": "Using open-source solutions, we deliver a complete experience to capture any event, alert, or incident in your production environments."
+  },
+
+  "incidents": {
+    "title": "Incident Management",
+    "description": "Manage all your alerts and incidents in a single platform and organize your escalation flow until resolved!"
+  },
+
+  "statusPage": {
+    "title": "Status Page",
+    "description": "Openly share the status and availability of your services to build trust with your customers."
+  },
+
+  "monitoring": {
+    "title": "Monitoring",
+    "description": "Multiple options to monitor your application — synchronous, asynchronous, public, private, or synthetic monitoring for complex flows."
+  },
+
+  "synthetic": {
+    "title": "Synthetic Monitoring",
+    "description": "We test your business flows using synthetic monitoring and alert quickly in case of failures to ensure your service reliability."
+  }
+}

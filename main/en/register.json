@@ -1,0 +1,28 @@
+{
+  "title": "Create your free account",
+  "subtitle": "Get 7 days free trial with full access to Elven Observability platform.",
+  "fields": {
+    "name": "Your name",
+    "organization": "Organization Name",
+    "email": "Email",
+    "password": "Password"
+  },
+  "terms": {
+    "text": "I accept the",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "and": "and"
+  },
+  "button": {
+    "submit": "Create Free Account",
+    "loading": "Creating account..."
+  },
+  "alreadyHaveAccount": "Already have an account?",
+  "loginLink": "Login",
+  "errors": {
+    "invalidEmail": "Invalid email.",
+    "weakPassword": "Weak password. Use at least 12 characters with uppercase, lowercase, number and symbol.",
+    "invalidOrganization": "Organization name can only contain letters, numbers, underscores (_) or hyphens (-).",
+    "fillAllFields": "Fill in all fields and accept the terms."
+  }
+}

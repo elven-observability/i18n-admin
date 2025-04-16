@@ -1,0 +1,45 @@
+{
+  "consumption": {
+    "selectPeriod": "Selecione o Período:",
+    "error": "Erro ao carregar dados.",
+    "noData": "Nenhum dado encontrado para o período selecionado."
+  },
+  "timeSeries": {
+    "overTime": "Evolução ao Longo do Tempo",
+    "series": "Séries ativas",
+    "logs": "Logs",
+    "traces": "Traces",
+    "linear": "Linear",
+    "logarithmic": "Logarítmica",
+    "linearLabel": "Valor (convertido)",
+    "logLabel": "Escala Log (valores > 0)"
+  },
+  "chart": {
+    "title": "Visão Geral do Uso",
+    "linear": "Linear",
+    "log": "Logarítmica",
+    "tenantLabel": "Tenant",
+    "series": "Active Series",
+    "logs": "Logs",
+    "traces": "Traces",
+    "axisLinear": "Valor (convertido)",
+    "axisLog": "Escala Log (valores > 0)"
+  },
+  "metrics": {
+    "series": "Séries Ativas 📊",
+    "logs": "Volume de Logs 🗃️",
+    "traces": "Volume de Traces 🧵"
+  },
+  "time": {
+    "from": "De",
+    "to": "Até",
+    "apply": "Aplicar",
+    "quick": {
+      "label": "Intervalos rápidos",
+      "24h": "Últimas 24 horas",
+      "7d": "Últimos 7 dias",
+      "15d": "Últimos 15 dias",
+      "30d": "Últimos 30 dias"
+    }
+  }
+}

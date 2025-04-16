@@ -1,0 +1,44 @@
+{
+  "success": {
+    "title": "🎉 Sua conta está pronta!",
+    "description": "Abaixo estão os dados de acesso e configuração para conectar seus serviços à <strong>Elven Observability</strong>."
+  },
+
+  "grafana": {
+    "title": "Conexão ao Grafana",
+    "description": "Utilize as informações abaixo para conectar-se ao Grafana:",
+    "urlLabel": "URL:",
+    "usernameLabel": "Usuário:",
+    "passwordLabel": "Senha:"
+  },
+
+  "token": {
+    "title": "Uso do Token para Mimir, Loki e Tempo",
+    "description": "Use o token abaixo para enviar dados aos serviços Mimir, Loki e Tempo:"
+  },
+
+  "endpoints": {
+    "mimir": {
+      "title": "Mimir Endpoint",
+      "example": "Configure o Prometheus, OpenTelemetry Collector ou outro cliente para enviar métricas para o Mimir, configurando o endpoint como acima."
+    },
+    "loki": {
+      "title": "Loki Endpoint",
+      "example": "Configure o Promtail ou outro cliente para enviar logs para o Loki, configurando o endpoint como acima."
+    },
+    "tempoHttp": {
+      "title": "Tempo HTTP Endpoint",
+      "example": "Configure o OpenTelemetry Collector para enviar traces ao Tempo usando o endpoint acima."
+    },
+    "tempoGrpc": {
+      "title": "Tempo gRPC Endpoint",
+      "example": "Use o OpenTelemetry Collector ou outro cliente gRPC para enviar dados ao Tempo."
+    },
+    "details": {
+      "urlLabel": "URL",
+      "methodLabel": "Método",
+      "headersLabel": "Headers Necessários",
+      "exampleLabel": "Exemplo de Configuração"
+    }
+  }
+}

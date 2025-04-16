@@ -1,0 +1,46 @@
+{
+  "consumption": {
+    "selectPeriod": "Select the Period:",
+    "error": "Error loading data.",
+    "noData": "No data found for the selected period."
+  },
+  "timeSeries": {
+    "overTime": "Usage Over Time",
+    "series": "Active Series",
+    "logs": "Logs",
+    "traces": "Traces",
+    "linear": "Linear",
+    "logarithmic": "Logarithmic",
+    "linearLabel": "Value (converted)",
+    "logLabel": "Log Scale (values > 0)"
+  },
+  "chart": {
+    "title": "Usage Overview",
+    "linear": "Linear",
+    "log": "Logarithmic",
+    "tenantLabel": "Tenant",
+    "series": "Active Series",
+    "logs": "Logs",
+    "traces": "Traces",
+    "axisLinear": "Value (converted)",
+    "axisLog": "Log Scale (values > 0)"
+  },
+  "metrics": {
+    "series": "Active Series 📊",
+    "logs": "Log Volume 🗃️",
+    "traces": "Traces Volume 🧵"
+  },
+
+  "time": {
+    "from": "From",
+    "to": "To",
+    "apply": "Apply",
+    "quick": {
+      "label": "Quick ranges",
+      "24h": "Last 24 hours",
+      "7d": "Last 7 days",
+      "15d": "Last 15 days",
+      "30d": "Last 30 days"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "greeting": "Olá",
+  "welcome": "Bem-vindo à plataforma <strong>Elven Observability</strong>.",
+  "elvenObs": "Elven Observability",
+  "elvenPlatform": "Elven Platform",
+  "seeDetails": "Ver detalhes do consumo",
+  "cards": {
+    "series": "Active Series (30d)",
+    "logs": "Log Volume (30d)",
+    "traces": "Traces Volume (30d)"
+  },
+  "setup": {
+    "title": "Progresso de Configuração 🚀",
+    "progress": "{{count}} de {{total}} etapas concluídas",
+    "steps": {
+      "connect": "Conectar seus dados de observabilidade",
+      "dashboards": "Criar dashboards no Grafana",
+      "alerts": "Configurar alertas inteligentes"
+    }
+  },
+  "tips": {
+    "label": "Dica do dia",
+    "items": [
+      {
+        "title": "Filtrando logs por severidade",
+        "content": "Use {app=\"my-app\", level=\"error\"} no Loki para ver erros da sua aplicação."
+      },
+      {
+        "title": "Monitore sua memória em tempo real",
+        "content": "Use container_memory_usage_bytes no Mimir para criar alertas de uso de RAM."
+      },
+      {
+        "title": "Encontre gargalos nas APIs",
+        "content": "No Tempo, filtre por http.method=\"POST\" e duration > 1s para encontrar lentidão."
+      },
+      {
+        "title": "Traces com status code específico",
+        "content": "Use status_code=\"500\" no Tempo para identificar onde estão ocorrendo erros."
+      },
+      {
+        "title": "Analise ingestão de logs",
+        "content": "Monitore a métrica loki_distributor_bytes_received_total por tenant."
+      },
+      {
+        "title": "Use dashboards prontos como base",
+        "content": "No Grafana, importe dashboards da comunidade para acelerar sua configuração."
+      }
+    ]
+  }
+}

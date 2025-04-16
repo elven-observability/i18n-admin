@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "title": "Observabilidade moderna e sem limites com a stack LGTM++",
+    "subtitle": "Métricas, logs e traces em tempo real, com suporte completo a qualquer ambiente — cloud, containers ou bare metal.",
+    "body": "Usamos <strong1>OpenTelemetry</strong1> com instrumentação automática, <strong2>agents desenvolvidos por nós</strong2>, exporters Prometheus e suporte total à observabilidade distribuída.",
+    "cta": "Começar grátis",
+    "demo": "Ver demonstração",
+    "bottomTitle": "Pronto para observar tudo?",
+    "bottomCta": "Começar agora"
+  },
+
+  "features": {
+    "fastSetup": {
+      "title": "Rápido de configurar",
+      "desc": "Você começa a monitorar em minutos, sem complicação."
+    },
+    "secureByDefault": {
+      "title": "Seguro por padrão",
+      "desc": "Multi-tenant, autenticação integrada e comunicação criptografada."
+    },
+    "openSource": {
+      "title": "Open Source",
+      "desc": "Baseado nas ferramentas Grafana, Loki, Mimir e Tempo."
+    },
+    "costControl": {
+      "title": "Custo sob controle",
+      "desc": "Modelos de cobrança simples e transparentes."
+    }
+  },
+
+  "observability": {
+    "title": "Observabilidade que vai além do básico",
+    "subtitle": "Nossa stack segue as melhores práticas do mercado para garantir máxima visibilidade e performance.",
+    "goldenSignals": {
+      "title": "Golden Signals",
+      "desc": "Latência, tráfego, erros e saturação — monitoramos os 4 pilares essenciais para a saúde do seu sistema."
+    },
+    "richSpans": {
+      "title": "Traces com spans ricos",
+      "desc": "Cada requisição é rastreada ponta a ponta com spans detalhados, status codes e atributos personalizados."
+    },
+    "slowQueries": {
+      "title": "Detecção de slow queries",
+      "desc": "Identifique queries lentas em tempo real com visualização clara no Tempo e alertas configuráveis."
+    },
+    "realTimeErrors": {
+      "title": "Erros em tempo real",
+      "desc": "Captura de erros e exceções nos serviços com correlação automática entre logs, métricas e traces."
+    },
+    "readyDashboards": {
+      "title": "Dashboards prontos",
+      "desc": "Importe dashboards com as melhores práticas para Kubernetes, APIs, bancos e muito mais."
+    },
+    "multiTenant": {
+      "title": "Totalmente multi-tenant",
+      "desc": "Cada cliente com sua visão isolada e segura, sem compartilhar dados ou métricas."
+    }
+  },
+
+  "flexibility": {
+    "title": "Flexível para qualquer necessidade 📦",
+    "subtitle": "Escolha entre um modelo de implantação multi-tenant compartilhado ou uma stack dedicada, para compliance e controle total.",
+    "shared": {
+      "title": "Multi-tenant Compartilhado",
+      "desc": "Cada cliente com ambiente lógico isolado, quotas e acesso independente. Ideal para agilidade, escalabilidade e baixo custo."
+    },
+    "dedicated": {
+      "title": "Stack Dedicada (Self ou Gerenciada)",
+      "desc": "Hospedagem separada para sua organização — ideal para regulamentos como LGPD, HIPAA ou ISO 27001. Você escolhe: nossa infra ou a sua."
+    },
+    "compliance": {
+      "title": "Compliance-ready",
+      "desc": "Criptografia, RBAC, controle de acesso granular, SSO, logs de auditoria e mais, prontos para atender às principais normas de mercado."
+    }
+  },
+
+  "how": {
+    "title": "Como funciona por baixo dos panos 🔍",
+    "subtitle": "Não é só mais uma stack LGTM. A Elven é feita para desenvolvedores exigentes, que precisam de profundidade, performance e controle.",
+    "it": [
+      {
+        "title": "Instrumentação Inteligente",
+        "desc": "Agents Elven otimizados com OpenTelemetry, que capturam métricas, logs e traces de forma automática e eficiente."
+      },
+      {
+        "title": "Collector Elven + OTel Collector",
+        "desc": "Pipeline completo com suporte a batching, retry, resiliência e transformação de dados antes de chegar ao backend."
+      },
+      {
+        "title": "Exporters Prometheus",
+        "desc": "Suporte a qualquer exporter: Node Exporter, Blackbox, cAdvisor, Redis, PostgreSQL e muito mais."
+      },
+      {
+        "title": "Ambiente agnóstico",
+        "desc": "Funciona em cloud pública, clusters Kubernetes, VMs on-premises ou containers standalone. Plug and play."
+      },
+      {
+        "title": "Autocorrelação nativa",
+        "desc": "Logs, métricas e traces integrados por ID de requisição. Visualização unificada no Grafana, sem precisar sair da tela."
+      },
+      {
+        "title": "Isolamento total por cliente",
+        "desc": "Cada tenant com storage, dashboards e alertas independentes. Multi-tenant de verdade."
+      }
+    ]
+  },
+
+  "stack": {
+    "title": "Compatível com qualquer stack"
+  },
+
+  "useCases": {
+  "title": "Casos de Uso Reais ⚡",
+  "description": "Nossa plataforma é usada por empresas de todos os tamanhos, resolvendo desde problemas críticos de produção até monitoramento avançado de negócios.",
+  "items": [
+    {
+      "title": "Monitoramento de APIs",
+      "desc": "Identifique gargalos de performance, erros 5xx e tempo de resposta com precisão e alertas em tempo real."
+    },
+    {
+      "title": "Análise de custos de microserviços",
+      "desc": "Cruze volume de logs e traces com uso de CPU e memória para otimizar o custo da sua infraestrutura."
+    },
+    {
+      "title": "Visibilidade em ambientes híbridos",
+      "desc": "Seja on-prem, cloud ou container, integramos tudo em uma única visualização com zero lock-in."
+    },
+    {
+      "title": "Detecção de incidentes e RCA",
+      "desc": "Veja o erro, o stack trace, o span de origem e as métricas afetadas — tudo em uma timeline unificada."
+    },
+    {
+      "title": "Auditoria de sistemas e segurança",
+      "desc": "Rastreie ações críticas por usuário e serviço com logs estruturados e search rápido via Loki."
+    },
+    {
+      "title": "Experiência do usuário (UX)",
+      "desc": "Monitore tempo de carregamento, interações e erros de frontend com integração Faro + backend."
+    }
+  ]
+}
+
+}

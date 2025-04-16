@@ -1,0 +1,16 @@
+{
+  "title": "Access your account",
+  "fields": {
+    "email": "Email",
+    "password": "Password"
+  },
+  "button": {
+    "submit": "Login",
+    "loading": "Logging in..."
+  },
+  "noAccount": "Don't have an account?",
+  "createAccount": "Create Account",
+  "errors": {
+    "loginFailed": "Failed to login."
+  }
+}

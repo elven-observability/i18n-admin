@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "title": "Modern and Limitless Observability with the LGTM++ Stack",
+    "subtitle": "Metrics, logs, and traces in real time, with full support for any environment — cloud, containers, or bare metal.",
+    "body": "We use <strong1>OpenTelemetry</strong1> with automatic instrumentation, <strong2>custom-built agents</strong2>, Prometheus exporters, and full support for distributed observability.",
+    "cta": "Start for Free",
+    "demo": "View Demo",
+    "bottomTitle": "Ready to observe everything?",
+    "bottomCta": "Get Started Now"
+  },
+
+  "features": {
+    "fastSetup": {
+      "title": "Fast to Set Up",
+      "desc": "Start monitoring in minutes, no hassle."
+    },
+    "secureByDefault": {
+      "title": "Secure by Default",
+      "desc": "Multi-tenant, integrated authentication, and encrypted communication."
+    },
+    "openSource": {
+      "title": "Open Source",
+      "desc": "Powered by Grafana, Loki, Mimir, and Tempo."
+    },
+    "costControl": {
+      "title": "Cost Under Control",
+      "desc": "Simple and transparent billing models."
+    }
+  },
+
+  "observability": {
+    "title": "Observability Beyond the Basics",
+    "subtitle": "Our stack follows industry best practices to ensure maximum visibility and performance.",
+    "goldenSignals": {
+      "title": "Golden Signals",
+      "desc": "Latency, traffic, errors, and saturation — we monitor the four essential pillars of your system’s health."
+    },
+    "richSpans": {
+      "title": "Traces with Rich Spans",
+      "desc": "Each request is tracked end-to-end with detailed spans, status codes, and custom attributes."
+    },
+    "slowQueries": {
+      "title": "Slow Query Detection",
+      "desc": "Identify slow queries in real time with clear visualization in Tempo and configurable alerts."
+    },
+    "realTimeErrors": {
+      "title": "Real-Time Errors",
+      "desc": "Error and exception capture in services with automatic correlation across logs, metrics, and traces."
+    },
+    "readyDashboards": {
+      "title": "Ready-to-Use Dashboards",
+      "desc": "Import dashboards with best practices for Kubernetes, APIs, databases, and more."
+    },
+    "multiTenant": {
+      "title": "Fully Multi-Tenant",
+      "desc": "Each client has an isolated and secure view — no data or metric sharing."
+    }
+  },
+
+  "flexibility": {
+    "title": "Flexible for Any Need 📦",
+    "subtitle": "Choose between a shared multi-tenant model or a dedicated stack for compliance and full control.",
+    "shared": {
+      "title": "Shared Multi-Tenant",
+      "desc": "Each client has a logically isolated environment, quotas, and independent access. Ideal for agility, scalability, and low cost."
+    },
+    "dedicated": {
+      "title": "Dedicated Stack (Self-Hosted or Managed)",
+      "desc": "Separate hosting for your organization — perfect for regulations like LGPD, HIPAA, or ISO 27001. Your choice: our infrastructure or yours."
+    },
+    "compliance": {
+      "title": "Compliance-Ready",
+      "desc": "Encryption, RBAC, granular access control, SSO, audit logs, and more — ready to meet top industry standards."
+    }
+  },
+
+  "how": {
+    "title": "How it works under the hood 🔍",
+    "subtitle": "This isn't just another LGTM stack. Elven is built for demanding developers who need depth, performance, and control.",
+    "it": [
+      {
+        "title": "Smart Instrumentation",
+        "desc": "Elven agents optimized with OpenTelemetry, capturing metrics, logs and traces automatically and efficiently."
+      },
+      {
+        "title": "Elven Collector + OTel Collector",
+        "desc": "Full pipeline with batching, retry, resilience and transformation before reaching the backend."
+      },
+      {
+        "title": "Prometheus Exporters",
+        "desc": "Support for any exporter: Node Exporter, Blackbox, cAdvisor, Redis, PostgreSQL and more."
+      },
+      {
+        "title": "Agnostic Environment",
+        "desc": "Works in public clouds, Kubernetes clusters, on-prem VMs or standalone containers. Plug and play."
+      },
+      {
+        "title": "Native Correlation",
+        "desc": "Logs, metrics and traces linked by request ID. Unified view in Grafana without switching screens."
+      },
+      {
+        "title": "Full Tenant Isolation",
+        "desc": "Each tenant with independent storage, dashboards and alerts. True multi-tenancy."
+      }
+    ]
+  },
+
+  "stack": {
+    "title": "Compatible with any stack"
+  },
+
+  "useCases": {
+  "title": "Real Use Cases ⚡",
+  "description": "Our platform is used by companies of all sizes, solving everything from critical production issues to advanced business monitoring.",
+  "items": [
+    {
+      "title": "API Monitoring",
+      "desc": "Identify performance bottlenecks, 5xx errors, and response time accurately with real-time alerts."
+    },
+    {
+      "title": "Microservices Cost Analysis",
+      "desc": "Correlate log and trace volume with CPU and memory usage to optimize infrastructure costs."
+    },
+    {
+      "title": "Hybrid Environment Visibility",
+      "desc": "Whether on-prem, cloud or containers, we integrate everything into a single view with zero lock-in."
+    },
+    {
+      "title": "Incident Detection and RCA",
+      "desc": "See the error, stack trace, origin span, and affected metrics — all in a unified timeline."
+    },
+    {
+      "title": "System and Security Auditing",
+      "desc": "Track critical user and service actions with structured logs and fast search via Loki."
+    },
+    {
+      "title": "User Experience (UX)",
+      "desc": "Monitor load times, interactions, and frontend errors with Faro + backend integration."
+    }
+  ]
+}
+
+}

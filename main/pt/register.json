@@ -1,0 +1,28 @@
+{
+  "title": "Crie sua conta gratuita",
+  "subtitle": "Ganhe 7 dias de teste grátis com acesso à plataforma Elven Observability.",
+  "fields": {
+    "name": "Seu nome",
+    "organization": "Nome da Organização",
+    "email": "Email",
+    "password": "Senha"
+  },
+  "terms": {
+    "text": "Aceito os",
+    "terms": "Termos de Uso",
+    "privacy": "Política de Privacidade",
+    "and": "e"
+  },
+  "button": {
+    "submit": "Criar Conta Grátis",
+    "loading": "Criando conta..."
+  },
+  "alreadyHaveAccount": "Já tem conta?",
+  "loginLink": "Entrar",
+  "errors": {
+    "invalidEmail": "Email inválido.",
+    "weakPassword": "Senha fraca. Use pelo menos 12 caracteres com letra maiúscula, minúscula, número e símbolo.",
+    "invalidOrganization": "Nome da organização só pode conter letras, números, underline (_) ou hífen (-).",
+    "fillAllFields": "Preencha todos os campos e aceite os termos."
+  }
+}

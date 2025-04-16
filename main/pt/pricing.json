@@ -1,0 +1,84 @@
+{
+  "title": "Conheça nossos planos",
+  "highlight": "Reduza seu custo com observabilidade em até 60%",
+  "description": "Para empresas de todos os tamanhos e necessidades",
+  "tabs": {
+    "saas": "Multi-Tenant (SaaS)",
+    "dedicated": "Stack Dedicada (Self-Hosted)"
+  },
+  "marketplace": {
+    "label": "Ou contrate direto pelo marketplace:",
+    "cta": "AWS Marketplace"
+  },
+  "calculator": {
+    "title": "Calculadora de Preço SaaS",
+    "description": "Estime seu custo mensal com base no uso. Valores variam com o tempo de retenção.",
+    "fields": {
+      "logs": "Logs",
+      "traces": "Traces",
+      "profiles": "Profiles",
+      "metrics": "Métricas Ativas",
+      "seriesSuffix": "K séries"
+    },
+    "summary": {
+      "title": "Resumo:",
+      "total": "Total"
+    },
+    "cta": {
+      "hire": "Contratar Agora",
+      "pdf": "Gerar PDF",
+      "generating": "Gerando..."
+    }
+  },
+  "selfHosted": {
+    "title": "Implantação dedicada para sua empresa",
+    "description": "Tenha uma stack exclusiva, com dados isolados e hospedagem onde preferir: na sua infraestrutura, em cloud pública ou gerenciada pela Elven. Ideal para segurança, compliance (LGPD, SOC2) e integração profunda com seu ambiente.",
+    "features": [
+      {
+        "title": "Hospedagem flexível",
+        "desc": "Você escolhe onde rodar: AWS, Azure, GCP, on-prem ou na Elven."
+      },
+      {
+        "title": "Totalmente personalizável",
+        "desc": "Configure regras de retenção, sharding, alta disponibilidade e backups sob medida."
+      },
+      {
+        "title": "Compliance e segurança",
+        "desc": "Pensado para empresas que exigem LGPD, SOC2, ISO ou normas internas de segurança."
+      },
+      {
+        "title": "Suporte com SLA sob contrato",
+        "desc": "Tenha acesso a suporte técnico especializado e SLA com cobertura formal."
+      }
+    ],
+    "cta": "Fale com um Especialista"
+  },
+  "pdf": {
+    "title": "Proposta de Observabilidade",
+    "subtitle": "Resumo de uso estimado:",
+    "resource": "Recurso",
+    "usage": "Uso",
+    "price": "Preço",
+    "logs": "Logs",
+    "traces": "Traces",
+    "profiles": "Profiles",
+    "metrics": "Métricas",
+    "series": "séries",
+    "retention": "Retenção",
+    "days": "dias",
+    "total": "Total",
+    "notesTitle": "Observações:",
+    "note1": "A infraestrutura é gerenciada, segura e escalável.",
+    "note2": "Você poderá integrar Prometheus, Loki, Tempo e Grafana de forma simples.",
+    "note3": "Para valores acima de R$ 5.000/mês, oferecemos domínio personalizado e SSO.",
+    "contactTitle": "Entre em contato para ativar sua conta:",
+    "contactPhone": "WhatsApp: (11) 99126-6175",
+    "contactSite": "Site: elvenobservability.com",
+    "contactEmail": "Email: elvenobservability@elven.works"
+  },
+  "retention": {
+    "label": "Retenção:",
+    "unit": "dias",
+    "tooltip": "A retenção define quanto tempo os dados ficam disponíveis. Quanto maior, maior o custo."
+  }
+}
